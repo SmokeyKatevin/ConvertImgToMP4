@@ -110,3 +110,6 @@ if __name__ == "__main__":
 
     # Call the function to create the video from images
     create_video_from_images(file_name, path, destination_folder)
+
+    # Example usage:
+    # python create_video_from_images.py "video" "C:\Users\user\Desktop\images" "C:\Users\user\Desktop\videos"
